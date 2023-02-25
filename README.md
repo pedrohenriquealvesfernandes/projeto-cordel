@@ -7,7 +7,7 @@
 
 
 # **Sobre o Projeto**
-Página ilustrativa de um <strong>Cordel</strong> disponibilizado por [Curso em Vídeo](https://www.youtube.com/cursoemvideo) feito variações do background no CSS.
+Página ilustrativa de um <strong>Cordel</strong> disponibilizado por [Curso em Vídeo](https://www.youtube.com/cursoemvideo) feito  usando variações do background no CSS.
 <br><br> 
   
 
