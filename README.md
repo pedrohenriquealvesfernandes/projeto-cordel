@@ -28,7 +28,7 @@ Página ilustrativa de um <strong>Cordel</strong> disponibilizado por [Curso em 
 LinkedIn</a><br><br>
 
 # **Disponível**
-Clique <a href="https://pedrohenriquealvesfernandes.github.io/projeto-cordel/" style="color: cyan"><strong>AQUI</strong></a> para acessar a projeto em funcionamento.
+Clique <a href="https://pedrohenriquealvesfernandes.github.io/projeto-cordel/" style="color: cyan"><strong>AQUI</strong></a> para acessar a projeto em funcionamento (resolução a ser exibida 1366px (desktop) e 375px (celular) ).
 
 
 
